@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Working as **Frontend Developer at SG WebApp Techniques Pvt. Ltd**
+- 🔭 Working as **Frontend Developer at Stratup Based Company**
 - 🌱 Learning **Advanced Next.js, System Design & AI Applications**
 - 💻 Building SaaS products & AI-powered web apps
 - 🤖 Interested in **Generative AI, RAG Systems, Full Stack Development**
