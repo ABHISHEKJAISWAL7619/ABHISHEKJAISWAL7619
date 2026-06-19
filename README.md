@@ -47,6 +47,3 @@
 
 ---
 
-
-### ⚡ Fun Fact
-I enjoy building AI-powered SaaS products and turning ideas into production-ready systems.
