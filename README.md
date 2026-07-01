@@ -18,7 +18,7 @@
 - 🌱 Learning **Advanced Next.js, System Design & AI Applications**
 - 💻 Building SaaS products & AI-powered web apps
 - 🤖 Interested in **Generative AI, RAG Systems, Full Stack Development**
-- 📍 India
+- 📍 Delhi India
 
 ---
 
